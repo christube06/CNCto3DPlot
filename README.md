@@ -9,3 +9,6 @@ e impostate la modalità di CNC a modalità LASER
 
 ATTENZIONE questi gcode funzioneranno solo su stampanti 3d che hanno l'origine nell'angolo in basso a sinistra
 Questo script funzionerà solo con stampanti Cartesiane le Delta non funzioneranno
+
+ISTRUZIONI PER UTENTI BAMBULAB
+c'è anche una cartella (nel mio repository) pensata appositamente per tutte le bambulab che come output al posto di dare un file ".gcode" da un file ".gcode.3mf" che attenzione non è la stessa cosa di un gcode quindi mettete il file di output nella micro sd nella sottocartella models
